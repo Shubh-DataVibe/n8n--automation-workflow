@@ -1,2 +1,1 @@
-# n8n--automation-workflow
-Collection of my n8n automation workflows with screenshots and setup guide.
+cd "D:\Codebasics courses\AI automation workflow\6.1 - unstructed data (invoice) to insihgts automation\n8n--automation-workflow" && git init && git add . && git commit -m "Initial commit: Added n8n workflows, screenshots, and README" && git branch -M main && git remote add origin https://github.com/<Shubh_DataVibe>/<n8n--automation-workflow>.git && git push -u origin main
